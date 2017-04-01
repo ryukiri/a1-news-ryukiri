@@ -11,7 +11,4 @@ Some important and useful features of Android O include:
 * Snooze notifications ([source](https://www.cnet.com/news/android-o-features-list-best/))
 * Picture-in-Picture ([source](http://www.droid-life.com/2017/03/21/android-o-whats-new/))
 * Improved battery due to background execution limits ([source](https://developer.android.com/preview/behavior-changes.html))
-* Lock screen shortcuts ([source](https://www.cnet.com/news/android-o-features-list-best/))
-* HiFi bluetooth audio ([source](https://www.cnet.com/news/android-o-features-list-best/))
-* Improved system UI tuner ([source](http://www.drod-life.com/2017/03/21/else-new-android-o-recap-little-things/))
 * Settings app updated with categories and the removal of the hamburger menu ([source](http://www.droid-life.com/2017/03/21/else-new-android-o-recap-little-things/))
