@@ -1,6 +1,6 @@
 # Android O Developer Preview
 
-Google released the developer version of its next mobile OS, currently just called Android O, as the current Android OS is on Nougat. This preview is provided for developers who need to update their appes to reflect any of the new APIs introduced with this new Android release. More information can be found on the [Android's Developer website](https://developer.android.com/preview/index.html).
+Google released the developer version of its next mobile OS, currently just called *Android O*, as the current Android OS is on Nougat. This **preview** is provided for developers who need to update their apps to reflect any of the new APIs introduced with this new Android release. More information can be found on the [Android's Developer website](https://developer.android.com/preview/index.html).
 >Give users a seamless transition to Android O and test for compatibility. Just download a device system image, install your current app, and test in areas where behavior changes may affect the app. Update your code and publish, using the app's current platform targeting.
 
 
